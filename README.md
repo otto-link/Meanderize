@@ -16,7 +16,3 @@ python3 main.py
 ```
 
 Iterations are saved as frames in the `frames` directory.
-
-## How it works
-
-The normal and tangent vectors are scaled by the local curvature and added to the position of each point of the curve.
