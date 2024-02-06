@@ -1,5 +1,5 @@
 # Meanderize
-A python script to demonstrate how to mimic river meanders and oxbows formation 
+A python script to demonstrate how to mimic river meanders and oxbows formation.
 
 Greatly inspired by https://rarevolume.com/work/meander/.
 
