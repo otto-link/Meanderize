@@ -4,10 +4,12 @@
 
 import matplotlib.pyplot as plt
 import numpy as np
+import os
 #
 import tools
 
 plt.style.use('dark_background')
+os.makedirs('frames', exist_ok=True)
 
 seed = 6
 npt = 10
