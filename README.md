@@ -4,9 +4,7 @@ A python script to demonstrate how to mimic river meanders and oxbows formation.
 Greatly inspired by https://rarevolume.com/work/meander/.
 
 
-
-https://github.com/otto-link/Meanderize/assets/121820229/82254185-bbbd-4cf9-b603-725789477102
-
+https://github.com/otto-link/Meanderize/assets/121820229/a8797f84-71f8-410c-891b-378cbd8a8b69
 
 
 ## License
